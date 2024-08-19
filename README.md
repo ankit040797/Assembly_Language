@@ -71,7 +71,7 @@ We would like to express our gratitude to the following individuals and projects
 - **Stack Overflow Community**: For their invaluable assistance in resolving technical challenges.
 - **Spring Boot Framework**: For providing a robust and efficient platform for building our application.
 - **Redis**: For providing an efficient in-memory data structure store.
-- **AWS**: for proving a public server to deploy the Application.
+
 We appreciate the effort and support that made this project possible.
 
 
