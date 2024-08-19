@@ -76,4 +76,4 @@ We appreciate the effort and support that made this project possible.
 
 
 ## Support
-For support, email ankit.singh@example.com.
+For support, email singh.ankit424@gmail.com.
